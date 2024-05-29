@@ -301,8 +301,8 @@ a {
     transition: color 0.3s;
 }
 
-.redes-sociais .github:hover i {
-    color: var(--color-purple);
+.redes-sociais .whatsapp:hover i {
+    color: var(--color-green);
     transition: color 0.3s;
 }
 
@@ -359,7 +359,7 @@ a {
 .widget5:hover .site h1,
 .widget5:hover .site i {
     transition: color 0.6s linear;
-    color: red;
+    color: var(--color-purple);
 }
 .site {
     width: 100%;
