@@ -201,11 +201,22 @@ a {
 .skills-icons .fa-whatsapp:hover {
     color: #07f142;
 }
-
-
 .skills-icons .fa-wordpress:hover {
     color: #21759b;
 }
+.skills-icons .fa-github:hover {
+    color: var(--color-purple);
+}
+.skills-icons .fa-bootstrap:hover {
+    color: var(--color-purple);
+}
+.skills-icons .fa-linux:hover {
+    color: #ECBB05;
+}
+.skills-icons .fa-figma:hover {
+    color: #F24E1E;
+}
+
 
 /*********  WIDGET 3 ************/
 .widget3 {
